@@ -1,12 +1,13 @@
 //rfce
 import React from 'react'
+import AppRoutes from './routes/AppRoutes'
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-  )
+    <div>
+      <AppRoutes />
+  </div>
+  );
 }
 
 export default App
