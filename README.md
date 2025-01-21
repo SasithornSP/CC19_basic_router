@@ -10,5 +10,12 @@ npm run dev
 git init
 git add .
 git commit -m 'name'
+git push
+```
 
+### When update code
+```bash
+git add .
+git commit -m 'name'
+git push
 ```
