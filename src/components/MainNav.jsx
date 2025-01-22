@@ -10,6 +10,7 @@ function MainNav() {
       <Link to='/contact'>Contact</Link>
       <Link to='/Recap'>Recap</Link>
       <Link to='/RecapUseState'>RecapUseState</Link>
+      <Link to='/EasyZustand'>EasyZustand</Link>
      
       </div>
 

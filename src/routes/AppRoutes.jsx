@@ -11,6 +11,7 @@ import Manage from '../pages/Manage';
 import Setting from '../pages/Setting';
 import Recap from '../pages/Recap';
 import RecapUseState from '../pages/RecapUseState';
+import EasyZustand from '../pages/EasyZustand';
 
 function AppRoutes() {
 
@@ -25,8 +26,10 @@ function AppRoutes() {
       <Route path='contact' element={<Contact/>} />
       <Route path='login' element={<Login/>} />
       <Route path='register' element={<Register/>} />
+
       <Route path='recap' element={<Recap/>} />
       <Route path='recapUseState' element={<RecapUseState/>} />
+      <Route path='EasyZustand' element={<EasyZustand/>} />
       </Route>
       
       {/* Private */}
