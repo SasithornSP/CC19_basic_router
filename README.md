@@ -24,7 +24,7 @@ git push
 ```bash
 npm i react-router
 ```
-### Step4 New foder keep routes
+### Step04 New foder keep routes
 ```bash
 สร้างโฟเดอใหม่ ใช้เก็บNavBar
 note!!!
@@ -73,4 +73,20 @@ function AppRoutes() {
 }
 
 export default AppRoutes
+```
+
+##Step 4 Global state with Zustand
+```bash
+npm install zustand
+```
+
+##Step 5 Fetch data
+```bash
+npm install axios
+```
+
+##Use Lucide Icon
+```bash
+https://lucide.dev/guide/installation
+npm install lucide-react
 ```
