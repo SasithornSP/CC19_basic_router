@@ -8,9 +8,11 @@ function MainNav() {
       <Link to='/'>Home</Link>
       <Link to='/about'>About</Link>
       <Link to='/contact'>Contact</Link>
-      <Link to='/Recap'>Recap</Link>
+      {/* <Link to='/Recap'>Recap</Link>
       <Link to='/RecapUseState'>RecapUseState</Link>
-      <Link to='/EasyZustand'>EasyZustand</Link>
+      <Link to='/EasyZustand'>EasyZustand</Link> */}
+      <Link to='/Products'>Products</Link>
+      <Link to='/Mycart'>Cart</Link>
      
       </div>
 

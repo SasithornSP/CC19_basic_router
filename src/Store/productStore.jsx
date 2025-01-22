@@ -26,6 +26,7 @@ import{create} from 'zustand'
         },
         acttionDivit:()=>{
             set((state)=>({number:state.number/2}))
+            //newValue
         },
        
     });
